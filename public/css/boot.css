@@ -1,0 +1,59 @@
+body {
+  background-color: #f0f0f0;
+}
+.m_c_i_wrap {
+  position: absolute;
+  left: 0;
+  z-index: -1;
+}
+.navbar {
+  background-color: #fff;
+  margin-bottom: 0;
+}
+.m_c_box {
+  background-color: #fff;
+  -webkit-box-shadow: 0 0 0 4px rgba(208, 213, 203, 0.3);
+  box-shadow: 0 0 0 4px rgba(208, 213, 203, 0.3);
+  border: 1px solid #D0D5CB;
+  border-radius: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.top-mask {
+  background-image: url(../media/img/bkg_attendees.jpg);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+.top_pa_text {
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+.top_pa_text .sec_text {
+  line-height: 30px;
+}
+.single_box_wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.terms_wrapper {
+  font-size: 13px;
+}
+.terms_para {
+  font-size: 13px;
+  line-height: 20px;
+}
+.ques_wrapper {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+}
+.faq_topic_b {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-decoration: underline;
+}
+.home_t_content {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
